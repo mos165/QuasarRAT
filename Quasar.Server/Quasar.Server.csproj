@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
     <TargetFramework>net452</TargetFramework>
     <OutputType>WinExe</OutputType>
@@ -319,7 +319,7 @@
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="BouncyCastle">
-      <Version>1.8.6.1</Version>
+      <Version>1.8.9</Version>
     </PackageReference>
     <PackageReference Include="Mono.Cecil">
       <Version>0.11.2</Version>
